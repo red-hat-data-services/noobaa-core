@@ -107,7 +107,7 @@
     "node-df": "0.1.4",
     "node-gyp": "8.1.0",
     "performance-now": "2.1.0",
-    "pg": "8.6.0",
+    "pg": "8.15.1",
     "prom-client": "13.1.0",
     "ps-node": "0.1.6",
     "request": "2.88.2",
