@@ -119,7 +119,7 @@
     "ssh2": "0.8.9",
     "ts-node": "10.0.0",
     "tslint": "6.1.3",
-    "typescript": "4.3.2",
+    "typescript": "4.9.5",
     "utf-8-validate": "5.0.5",
     "uuid": "8.3.2",
     "ws": "7.4.6",
